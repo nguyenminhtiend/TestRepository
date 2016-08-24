@@ -10,5 +10,10 @@ namespace src
         {
             Assert.AreEqual(true, true);
         }
+        [TestMethod]
+        public void TestMethod2()
+        {
+            Assert.AreEqual(true, true);
+        }
     }
 }
